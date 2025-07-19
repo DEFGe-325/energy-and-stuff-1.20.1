@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "ABC",
+    "BC "
+  ],
+  "key": {
+    "A": { "item": "energyandstuff:basic_handle" },
+    "B": { "item": "minecraft:stone_button" },
+    "C": { "item": "minecraft:redstone_block" }
+  },
+  "result": {
+    "item": "energyandstuff:strength_switch"
+  }
+}

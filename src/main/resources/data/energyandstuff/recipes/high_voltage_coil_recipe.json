@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ABA",
+    "CA "
+  ],
+  "key": {
+    "A": { "tag": "forge:copper_nuggets" },
+    "B": { "item": "energyandstuff:copper_coil" },
+    "C": { "item": "minecraft:copper_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:high_voltage_coil"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AA",
+    "AB ",
+    "C  "
+  ],
+  "key": {
+    "A": { "item": "minecraft:coal" },
+    "B": { "item": "energyandstuff:brass_blade" },
+    "C": { "item": "minecraft:copper_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:storm_blade"
+  }
+}

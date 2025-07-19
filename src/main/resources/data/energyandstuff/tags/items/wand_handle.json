@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "energyandstuff:basic_handle",
+    "energyandstuff:strength_switch",
+    "energyandstuff:quick_grip",
+    "energyandstuff:pulse_switch"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "ACA",
+    "DA "
+  ],
+  "key": {
+    "A": { "tag": "forge:copper_nuggets" },
+    "B": { "item": "minecraft:blue_stained_glass_pane" },
+    "C": { "item": "minecraft:diamond" },
+    "D": { "item": "minecraft:copper_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:focusing_lens"
+  }
+}

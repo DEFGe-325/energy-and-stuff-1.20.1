@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "energyandstuff:power_coil",
+    "energyandstuff:focusing_lens",
+    "energyandstuff:discharge_catalyst",
+    "energyandstuff:high_voltage_coil",
+    "energyandstuff:storm_blade",
+    "energyandstuff:gravi_magnetron",
+    "energyandstuff:overcharged_sphere"
+  ]
+}

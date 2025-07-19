@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  A",
+    " A ",
+    "A  "
+  ],
+  "key": {
+    "A": { "item": "energyandstuff:superconducting_brass_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:brass_blade"
+  }
+}

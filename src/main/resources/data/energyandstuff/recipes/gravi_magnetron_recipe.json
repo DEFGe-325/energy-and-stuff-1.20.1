@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "AB ",
+    "CD "
+  ],
+  "key": {
+    "A": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:diamond" },
+    "C": { "item": "minecraft:copper_ingot" },
+    "D": { "item": "minecraft:lapis_lazuli" }
+  },
+  "result": {
+    "item": "energyandstuff:gravi_magnetron"
+  }
+}

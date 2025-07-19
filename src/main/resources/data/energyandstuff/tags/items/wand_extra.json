@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "energyandstuff:cover_cap",
+    "energyandstuff:battery_level1",
+    "energyandstuff:battery_level2",
+    "energyandstuff:battery_level3",
+    "energyandstuff:solar_panel",
+    "energyandstuff:power_node"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "item.energyandstuff.copper_nugget": "Кусочек меди",
+  "item.energyandstuff.copper_coil": "Медная катушка",
+  "item.energyandstuff.brass_blade": "Латунный клинок",
+  "item.energyandstuff.solar_panel_item": "Солнечная панель",
+  "item.energyandstuff.superconducting_brass_ingot": "Суперпроводящий латунный слиток",
+
+  "item.energyandstuff.wand": "Жезл",
+
+  "item.energyandstuff.power_coil": "Энерго катушка",
+  "item.energyandstuff.focusing_lens": "Фокусирующая линза",
+  "item.energyandstuff.discharge_catalyst": "Разрядный катализатор",
+  "item.energyandstuff.high_voltage_coil": "Катушка высокого напряжения",
+  "item.energyandstuff.storm_blade": "Громовой клинок",
+  "item.energyandstuff.gravi_magnetron": "Грави-магнетрон",
+  "item.energyandstuff.overcharged_sphere": "Перегруженная сфера",
+
+  "item.energyandstuff.basic_handle": "Простая рукоятка",
+  "item.energyandstuff.strength_switch": "Переключатель мощности",
+  "item.energyandstuff.quick_grip": "Рукоять быстродействия",
+  "item.energyandstuff.pulse_switch": "Импульсный переключатель",
+
+  "item.energyandstuff.cover_cap": "Заглушка",
+  "item.energyandstuff.battery_level1": "Аккумулятор",
+  "item.energyandstuff.battery_level2": "Аккумулятор",
+  "item.energyandstuff.battery_level3": "Аккумулятор",
+  "item.energyandstuff.solar_panel": "Солнечная панель",
+  "item.energyandstuff.power_node": "Силовой узел",
+
+  "block.energyandstuff.fuel_generator": "Топливный генератор",
+
+  "block.energyandstuff.wand_customization_table": "Стол создания инструментов",
+
+  "creativetab.energyandstufftab": "Energy and Stuff",
+
+  "tooltip.energy": "Энергия: %s/%s FE"
+}

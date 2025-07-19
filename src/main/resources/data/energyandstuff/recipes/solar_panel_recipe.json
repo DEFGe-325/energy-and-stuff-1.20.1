@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  A",
+    "BB ",
+    "BB "
+  ],
+  "key": {
+    "A": { "item": "minecraft:copper_ingot" },
+    "B": { "item": "energyandstuff:solar_panel_item" }
+  },
+  "result": {
+    "item": "energyandstuff:solar_panel"
+  }
+}

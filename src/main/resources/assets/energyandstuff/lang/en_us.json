@@ -1,0 +1,37 @@
+{
+  "item.energyandstuff.copper_nugget": "Copper nugget",
+  "item.energyandstuff.copper_coil": "Copper coil",
+  "item.energyandstuff.brass_blade": "Brass blade",
+  "item.energyandstuff.solar_panel_item": "Solar panel",
+  "item.energyandstuff.superconducting_brass_ingot": "Superconducting brass ingot",
+
+  "item.energyandstuff.wand": "Wand",
+
+  "item.energyandstuff.power_coil": "Power coil",
+  "item.energyandstuff.focusing_lens": "Focusing lens",
+  "item.energyandstuff.discharge_catalyst": "Discharge catalyst",
+  "item.energyandstuff.high_voltage_coil": "High voltage coil",
+  "item.energyandstuff.storm_blade": "Storm blade",
+  "item.energyandstuff.gravi_magnetron": "Gravi-magnetron",
+  "item.energyandstuff.overcharged_sphere": "Overcharged sphere",
+
+  "item.energyandstuff.basic_handle": "Wand handle",
+  "item.energyandstuff.strength_switch": "Strength switch",
+  "item.energyandstuff.quick_grip": "Quick grip",
+  "item.energyandstuff.pulse_switch": "Pulse switch",
+
+  "item.energyandstuff.cover_cap": "Cover cap",
+  "item.energyandstuff.battery_level1": "Battery",
+  "item.energyandstuff.battery_level2": "Battery",
+  "item.energyandstuff.battery_level3": "Battery",
+  "item.energyandstuff.solar_panel": "Solar panel",
+  "item.energyandstuff.power_node": "Power node",
+
+  "block.energyandstuff.fuel_generator": "Fuel generator",
+
+  "block.energyandstuff.wand_customization_table": "Wand customization table",
+
+  "creativetab.energyandstufftab": "Energy and Stuff",
+
+  "tooltip.energy": "Energy: %s/%s FE"
+}

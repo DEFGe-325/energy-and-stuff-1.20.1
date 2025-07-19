@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": { "item": "minecraft:glass_pane" },
+    "B": { "item": "minecraft:lapis_lazuli" },
+    "C": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "item": "energyandstuff:solar_panel_item"
+  }
+}

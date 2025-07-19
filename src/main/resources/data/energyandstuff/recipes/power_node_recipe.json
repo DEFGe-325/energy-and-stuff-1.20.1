@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  A",
+    "BB ",
+    " B "
+  ],
+  "key": {
+    "A": { "item": "minecraft:copper_ingot" },
+    "B": { "item": "minecraft:lightning_rod" }
+  },
+  "result": {
+    "item": "energyandstuff:power_node"
+  }
+}

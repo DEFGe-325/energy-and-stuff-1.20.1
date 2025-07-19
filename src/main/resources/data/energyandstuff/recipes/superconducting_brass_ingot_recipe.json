@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": { "item": "minecraft:gold_ingot" },
+    "B": { "item": "minecraft:copper_ingot" },
+    "C": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:superconducting_brass_ingot"
+  }
+}

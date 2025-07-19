@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "CAC",
+    "BBB"
+  ],
+  "key": {
+    "A": { "item": "minecraft:furnace" },
+    "B": { "item": "minecraft:smooth_stone" },
+    "C": { "item": "minecraft:copper_ingot" }
+  },
+  "result": {
+    "item": "energyandstuff:fuel_generator"
+  }
+}

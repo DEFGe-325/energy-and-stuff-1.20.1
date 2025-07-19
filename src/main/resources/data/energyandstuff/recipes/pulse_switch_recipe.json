@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    "ACA",
+    "DA "
+  ],
+  "key": {
+    "A": { "item": "minecraft:copper_ingot" },
+    "B": { "item": "minecraft:diamond" },
+    "C": { "item": "minecraft:redstone_block" },
+    "D": { "item": "energyandstuff:basic_handle" }
+  },
+  "result": {
+    "item": "energyandstuff:pulse_switch"
+  }
+}
